@@ -1,5 +1,5 @@
 # Auxiliary Material
-This repository contains auxiliary material for the SAC 2020 SA-TTA submission titled **Model-driven Development of Microservice Architecture: An Experiment on the Quality in Use of a UML- and a DSL-based Approach**.
+This repository contains auxiliary material for the EASE 2020 submission titled **Model-driven Development of Microservice Architecture: An Experiment on the Quality in Use of a UML- and a DSL-based Approach**.
 
 The following material is presented.
 
